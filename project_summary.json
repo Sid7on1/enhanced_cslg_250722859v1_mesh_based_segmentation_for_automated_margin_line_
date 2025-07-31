@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_cs.LG_2507.22859v1_Mesh_based_segmentation_for_automated_margin_line_",
+  "project_type": "computer_vision",
+  "completion_time": "2025-07-31T22:02:14.962847",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_cs.LG_2507.22859v1_Mesh_based_segmentation_for_automated_margin_line_"
+}
